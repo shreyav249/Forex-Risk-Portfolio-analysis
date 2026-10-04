@@ -1,0 +1,5 @@
+pair,price,SMA50,SMA200,price_vs_SMA50,trend (SMA50 vs SMA200),last_cross_date
+USDINR,94.8697,95.5112,92.9343,below,Uptrend (INR weakening),none in window
+EURINR,110.0694,109.7339,108.0494,above,Uptrend (INR weakening),2025-03-19
+GBPINR,128.4311,128.2148,124.7064,above,Uptrend (INR weakening),2025-03-10
+JPYINR,59.3100,59.3750,58.7450,below,Uptrend (INR weakening),2026-04-08

@@ -1,0 +1,4 @@
+,exp_return_%,volatility_%,sharpe,VaR95_1d_%
+Equal weight,3.4477,5.6936,-0.4483,0.5049
+Minimum variance,5.5227,3.8738,-0.1232,0.3456
+Maximum Sharpe,5.2702,8.1433,-0.0896,0.7389

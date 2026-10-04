@@ -1,0 +1,5 @@
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+notebook>=7.0   # only needed to open the .ipynb
